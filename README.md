@@ -1,4 +1,4 @@
-# 23/24 LaLiga Data Structure and Observations
+# 23/24 LaLiga Data Structuring and Observations
 
 ## Description
 Since its inception in 1929, LaLiga has only had 9 different champions, with Real Madrid (36 titles), FC Barcelona (27 titles), and Atletico Madrid (11 titles) combining for 74 of the 93 titles ever awarded. This project was built to explore trends and patterns behind that dominance by organizing and analyzing the 2023/2024 LaLiga season's table, team, and player statistics.
